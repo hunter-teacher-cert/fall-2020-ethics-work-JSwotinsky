@@ -1,1 +1,16 @@
+Jonathan Swotinsky
+Ethics and Computer Science
 
+Term Project Shortlist:
+
+#1: Digital Divide: 
+-As the Time article points out, "Less than half of households living on under $20,000 are connected. The collective deficit in opportunity, education and prospects–everything implied in “being connected”–further separates us into haves and have-nots."...How does this relate to the experiences of our own students?
+-Another relevant point from the Time article: “Universal telephone service has been around for a hundred years, maybe more. It’s a well-established social principle that everybody ought to have the ability to communicate”
+-Should high-speed internet, modern devices, etc. be considered premium or have they now become basic neccessities? Remote learning has brought this question to the center of the spotlight.
+
+
+
+
+#2: Security vs. Convenience:
+
+#3: Environment:
