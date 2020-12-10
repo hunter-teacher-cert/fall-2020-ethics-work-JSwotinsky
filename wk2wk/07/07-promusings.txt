@@ -8,9 +8,7 @@ Term Project Shortlist:
 -Another relevant point from the Time article: “Universal telephone service has been around for a hundred years, maybe more. It’s a well-established social principle that everybody ought to have the ability to communicate”
 -Should high-speed internet, modern devices, etc. be considered premium or have they now become basic neccessities? Remote learning has brought this question to the center of the spotlight.
 
-
-
-
 #2: Security vs. Convenience:
+-In highlighting the balance between security and convenience, the PCWorld article uses the example of account passwords, noting "Strong password security causes almost as many problems as it solves. Everyone knows they’re not supposed to use the word “password”, or the name of their pet as their password. But, creating long passwords comprised of uppercase and lowercase letters, numbers, and special characters means they’re also harder to remember."...Some solutions already exist, such as password management software.  What other software solutions could be developed to mitigate the inconvenience that comes along with increased security?
 
 #3: Environment:
